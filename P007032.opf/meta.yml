@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG03599
   title: ཀན་ལྷོ་ཁུལ་གྱི་བོན་དགོན་ལོ་རྒྱུས་མདོར་བསྡུས་
-  volume: ''
+  volume:
+    497431451d09440eb3ba640ee168c5b3:
+      image_group_id: I00KG03618
+      title: Volume 1 of kan lho khul gyi bon dgon lo rgyus mdor bsdus
+      volume_number: 1
+      total_pages: 132
   author: ''
+ebook_metadata:
+  title: ཀན་ལྷོ་ཁུལ་གྱི་བོན་དགོན་ལོ་རྒྱུས་མདོར་བསྡུས་
+  author: ''
+  sku: P007032
+  cover: cover.jpg
+  layers:
+  - pagination
